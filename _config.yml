@@ -1,4 +1,3 @@
-theme: minima
 title: DevOps360 (360 Developer Operations)
 author: MarkRizzle
 email: markrizzle.dev@gmail.com
@@ -9,3 +8,5 @@ description: > # this means to ignore newlines until "baseurl:"
 github:  DevMarkRizzle.
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: minima
