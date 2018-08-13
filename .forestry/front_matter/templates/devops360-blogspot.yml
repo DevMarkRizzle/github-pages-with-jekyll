@@ -6,8 +6,7 @@ fields:
 - type: tag_list
   label: tag developer's.
   name: Dev_tag
-  default:
-  - DevOps360
+  default: []
 - type: textarea
   name: 360_Developer_Operations_
   hidden: false
