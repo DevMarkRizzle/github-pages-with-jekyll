@@ -1,5 +1,7 @@
+
 ---
-"Development Comes Full Circle"
+ "Development Comes Full Circle"
+ 
  2018-08-13
  ---
    
